@@ -1,7 +1,7 @@
 {
-  "LIC-ADGSYH38723": {
-    "hwid": "",
+  "TEST-1234": {
     "status": "active",
-    "expire": "2026-12-31"
+    "hwid": "",
+    "expiry": "2026-01-28"
   }
 }
