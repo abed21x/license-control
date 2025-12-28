@@ -1,7 +1,5 @@
-{
-  "TEST-1234": {
-    "status": "on",
-    "hwid": "",
-    "expiry": "2026-01-28"
-  }
+"LIC-ABC123": {
+  "hwid": "1234567890",
+  "status": "active",
+  "expire": "2025-12-31"
 }
