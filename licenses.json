@@ -1,7 +1,7 @@
 {
-  "TEST-1234": {
-    "status": "on",
+  "LIC-ADGSYH38723": {
     "hwid": "",
-    "expiry": "2026-01-28"
+    "status": "active",
+    "expire": "2025-01-31"
   }
 }
