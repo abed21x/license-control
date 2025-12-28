@@ -1,6 +1,6 @@
 {
   "TEST-1234": {
-    "status": "off",
+    "status": "on",
     "hwid": "",
     "expiry": "2026-01-28"
   }
